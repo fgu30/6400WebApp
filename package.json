@@ -1,0 +1,22 @@
+{
+  "name": "6400webapp",
+  "version": "1.0.0",
+  "description": "database web app for cs6400 team059",
+  "main": "man.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgu30/6400WebApp.git"
+  },
+  "author": "feng gu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgu30/6400WebApp/issues"
+  },
+  "homepage": "https://github.com/fgu30/6400WebApp#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
